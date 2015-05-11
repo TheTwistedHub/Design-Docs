@@ -1,5 +1,29 @@
-It's a round city comprised of nine districts.
+It's a round city comprised of nine districts. See Map: http://grab.la/puzckq
 
-Each district has a special "theme" to it that defines the look and feel, as well as its residents.
+The Districts
 
-At the center is a location called "The Bleed".
+	The central will be genre-neutral whereas the surrounding 8 Districts surround it radially (sliced outward like a pie) 
+
+	Each District will take on various aspects of Story/World Genre
+		-Sci-Fi, Crime/Mystery, Historical, Fantasy, Horror, Comedy, Drama/Slice-of-Life & Post Apocalyptic
+		-The Post Apocalyptic District used the be a Nature-Based Animal Kingdom until Full Bleed took effect
+	
+	The center of the hub is the downtown area known as The Bleed. 
+		This is where all world genres meet.
+		Home to the eight Axis Towers.
+			These towers also act as CBC controlled gates through The Spokes
+
+
+The Spokes 
+	
+	The Sea of Time and Space may be traversed in many ways.
+
+	Entry to the City is through the World Ports and Immigration Services
+		-Immigration Services are a subdivision of the Center for Bleed Control (CBC)
+		-Each Genre’s Low Bleed Area contains various port, beach, landings ect. ect
+
+	The Spokes are like walls, power lines and centers for public transportation.
+		-Some official buildings, as well as Rupture Black Markets and Tourniquet 
+		 Embassies are located here.
+		-The Spokes contain and direct the bleed
+			-Possibly drawing some sort of power/resource towards the center/governors
