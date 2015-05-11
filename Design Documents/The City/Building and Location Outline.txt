@@ -1,0 +1,146 @@
+* These Buildings exist in various locations and are decorated and laid out according to its containing District.
+The Bleed
+		Civil Buildings
+		The CBC Headquarters
+		Land and Guild Registry
+		Public Transport Central Station
+		Public Square*
+		Supplies
+		Food*
+		Bar*
+
+Sci-Fi
+	Spokes
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		Bar*
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		CBC Station*
+		Bank*
+		Public Square*
+		Supplies*
+	High
+		Twisted Hub University
+		Food*
+
+Historical
+	Spokes
+		The Cathedral of The Wheel
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		CBC Station*
+		Bank*
+		Public Square*
+		Supplies*
+	High
+		Bar*
+		Food*
+
+Fantasy
+	Spokes
+		The Underground Market
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		Public Square*
+		CBC Station*
+		Bank*
+		Supplies*
+	High
+		Bar*
+		Food*
+
+Comedy
+	Spokes
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		Public Square*
+		CBC Station*
+		Bank*
+		Supplies*
+	High
+		Bar*
+		Food*
+
+SoL/Drama
+	Spokes
+		The Embassy of The Pure
+		Public Transport Station*
+		The Gates/Towers* - Bar and Food located here
+	Low
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		CBC Station*
+		Bank*
+		Public Square*
+		Supplies*
+	High
+		Twisted Hub Academy
+		Hospital
+
+Crime/Gov. & Mystery
+	Spokes
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		Bar*
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		Public Square*
+		CBC Station*
+		Bank*
+		Supplies*
+	High
+		Prison
+		The Track
+		Food*
+
+Horror
+	Spokes
+		The Carnival of Night
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		The Cemetery
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		Night School
+		CBC Station*
+		Bank*
+		Supplies*
+	High
+		Bar*
+		Public Square*
+		Food*
+
+Post-Apocalyptic
+	Spokes
+		Public Transport Station*
+		The Gates/Towers*
+	Low
+		World Ports/Yards/Ect.*
+		Immigration*
+	Moderate
+		Supplies*
+		Arena
+	High
+		CBC Station*
+		Bar*
+		Food*
