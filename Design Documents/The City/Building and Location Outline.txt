@@ -5,7 +5,7 @@ The Bleed
 		Land and Guild Registry
 		Public Transport Central Station
 		Public Square*
-		Supplies
+		Supplies*
 		Food*
 		Bar*
 
