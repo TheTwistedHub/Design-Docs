@@ -25,3 +25,4 @@ Public Square*
 Supplies*
 Food*
 Bar*
+Library
