@@ -144,3 +144,63 @@ Post-Apocalyptic
 		CBC Station*
 		Bar*
 		Food*
+
+
+
+
+
+
+
+
+District Entertainment Areas (High-Moderate Bleed area)
+VR Complex (Sci-Fi)
+
+Theatre/Feast (History)
+
+Jousting Grounds (Fantasy)
+
+Toontown adventure complex(Comedy)
+
+Giant Mall (Sol/Drama)
+
+Bar Sprawl(Noir) [Who Shot First - vaguely familiar to the sw cantina band]
+
+Dark carnival (Horror)
+
+Manageri Ruins - turned ampletheater for concerts (Post-Apocalyptic)
+
+
+World Ports (low-bleed) 
+Crowded Space Ports (Sci-Fi) 
+
+Sea Port (History)
+
+Misty Portal Beach (Fantasy)
+
+Yakety Sax Hallway (Comedy)
+
+Airport Terminals (SoL/Drama)
+
+Civil Service Immigration Lines w/ 'backdoor' (Noir)
+
+Scary Foggy Woods (Horror)
+
+Great Expanse of Desert - Ports are mirages/heatlines (Post-Apocalyptic)
+
+
+Supplies/Market (Moderate Bleed)
+Cyber Mall w/ terminals and avatars (Sci-Fi)
+
+Traditional Open Air Marketplace (History)
+
+Open Air Magical Market - Shares the wall with History and sits over the Blackmarket(Fantasy)
+
+Novelty Store - Looks like a big Toystore (Comedy)
+
+Giant Stripmall (SoL/Drama)
+
+Little China (Noir)
+
+Little Costume Shop of Horrors (Horror)
+
+The Wandering Market (Post-Apocalyptic)
