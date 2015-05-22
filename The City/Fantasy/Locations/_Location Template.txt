@@ -1,0 +1,15 @@
+#####
+## Location name
+<Name>
+
+#####
+## Description
+<Description>
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>

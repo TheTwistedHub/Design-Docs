@@ -1,0 +1,15 @@
+#####
+## Location name
+Public Transport Central Station
+
+#####
+## Description
+<Description>
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>

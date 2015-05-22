@@ -1,0 +1,15 @@
+#####
+## Location name
+Land and Guild Registry
+
+#####
+## Description
+<Description>
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
