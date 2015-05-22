@@ -1,0 +1,24 @@
+#####
+## Location name
+Inner Rim (Pandora)
+
+#####
+## Description
+“...The people were gone, but their shadows remained.” -Ray Bradbury
+Before the Fall 
+
+What was once the massive wall surrounding beautiful and almost mystical cloud-touched Sumer [soo-mer] Gate is now a haunted ruin. The towering monolith and its vine encrusted Aztecan temple base lays in rubble from the blast that caused the Bleed Overflow into the Ninth District. No governor's Axis Tower remains and you won't find the bustling and dense cityscape of the Animal Kingdom here. While traffic is heavy between the two surrounding Districts, crossing the ever-changing landscape of this post-nuclear holocaust is a hassle at best and deadly on the norm. The creatures that survived the initial blast were far too mangled by the overpowering corrosion of the Bleed Overflow to even consider helping, lost to the insanity that it wrought upon their minds and snapping at their shadows. The flora here is every bit as bad as the fauna and it isn't too uncommon to even find hybrid of man, creature and even machine. 
+
+While the central area clings to the idea of an ancient and lost ruin of the society that was, the edges seem to melt almost seamlessly into their neighboring districts. The eastern reaches of the inner rim darken and the true nightmares of fallout stalk the shadows and offsetting shrieks and cries echo off the stones. The modern and semi-Victorian inner city buildings that collapsed outward have created rows of upended skyscrapers and condos half melted into the stones themselves. If anything survived the initial hit here, you probably don't want to know what it is. Towards the west is a similar mess, twisted in glass and circuitry. The signs of  higher technology are here, knotted into the patterns of both flora and fauna to create haywire monsters of organic tech. No matter which direction you choose to go, you either have no other choice or you're as crazy as the Bleed Monsters here.
+
+The IOS and CBC offices of District 10 are nestled here in the far edges of the breached walls, forced to spread their limited resources across the entire open Inner Rim. At the corners of the Galileo District and Aether Vale is where the flow of traffic thickens, causing the agencies to focus their efforts there with insufficient border patrols. This ground, contested by men and reality itself, is probably the most dangerous area of District 10 despite the fact that there is little to no CBC presence further in from the rim. Illegal immigration and black market smuggling is an inevitability here, though that hardly seems to cull the spirits of the CBC in their continued attempts to crack down. The denizens of the wasteland district are not particularly welcoming either, preferring to police themselves free of the CBC's influence. With the citizens uninterested in pushing outward and the CBC lacking the manpower to push inward, this situation seems to have settled itself into an uncomfortable and often bloody stalemate. 
+
+((Note: The Damage to the dense Downtown area that is built into the inside of the inner rim spreads into the surrounding area of The Axis various city buildings have joined the ruins in the wall’s composition.))
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
