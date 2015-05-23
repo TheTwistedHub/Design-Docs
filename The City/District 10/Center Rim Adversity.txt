@@ -1,0 +1,43 @@
+﻿#####
+## Location name
+Center Rim (Adversity)
+
+“Extinction is the rule. Survival is the exception.” - Carl Sagan
+
+The gates of the volcanic stone wall once known as 
+#####
+## Description
+-Post Nuclear Fallout 
+
+
+--Various cityscapes litter the area
+
+--The wall is made of twisted and melted buildings that look like the collapsed into each other long ago
+
+-Sci-fi Side 
+
+--rogue A.I. and structures gradually growing more advanced.
+
+--Cyber-Zombies
+
+--Nuclear Mutants/Monsters
+
+--Modern to Futuristic Cyber Punk
+---Eastern croppings 
+
+-Horror Side
+
+--Traditional Zombies/Ghosts/Monsters
+
+--Nuclear ghost town feel
+
+--Victorian to Modern Era
+---Mideval croppings
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
