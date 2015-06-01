@@ -1,25 +1,66 @@
-Three Types of Reputation
+Currency in the Hub
+
+I. Money
+II. Reputation
+III. Sigils and Favors
+IV. Donation Points (OOC)
+
+
+I. Money
+
+1. Twisted Credits
+2. District Currencies
+
+Basic Info:
+
+1. Twisted Credits
+2. District Currencies
+
+
+II. Three Types of Reputation
+
 1. Hub Standing
 2. District Rep
 3. Faction Cred
 
 Basic Info:
-Reputation is one of the three types of currency offered in play, the others being Sigils and Cash/Credits. These other forms will be discussed in future meetings. This represents how well you can and have functioned within the Hub's Society. If gold is what makes the rules, Reputation is what bends them. Each sort of reputation is regularly garnered, bartered and gained in many ways such as (but not limited to) social interaction, combat, duelling, trade, gifting, tasks, events and bounties. It can be spent to gain various perks such as items anon posts, housing permits, favors and even contraband.
+Reputation is one of the three types of currency offered in play, the others being Sigils/Favors and Cash/Credits. These other forms will be discussed in future meetings. This represents how well you can and have functioned within the Hub's Society. If gold is what makes the rules, Reputation is what bends them. Each sort of reputation is regularly garnered, bartered and gained in many ways such as (but not limited to) social interaction, combat, duelling, trade, gifting, tasks, events and bounties. It can be spent to gain various perks such as items anon posts, housing permits, favors and even contraband.
 
 1. Hub Standing
 Information:
 This reputation type is the slowest and most difficult to gain. You only gain city-level Reputation by doing the city a service. Most of these tasks are not for your average Joe and characters will not likely be building it in any fair quantity until they have progressed to a certain point in the game. There ARE ways to gain this at lower levels of advancement, but it is generally via main story quest or otherwise is very expensive and/or difficult. 
 
-Uses: Buy city-level perks, various flavor perks, Sigil/Port Permits
+Specific Uses: Buy city-level perks, various flavor perks, Sigil/Port Permits
 
 
 2. District Rep:
+Information:
 This is likely to be the first sort of Reputation a character will encounter and is also the most common. Each character has a District Rep rating, providing they have any at all. This sort of reputation MAY end up depleting over time if you cease to gain more in that particular District over a period of time. The District you are currently in when you receive Reputation will determine which District said reputation is allotted to. If you are in a neutral zone and your actions are not directly District-related, you will not be able to gain District Rep. Since everyone's first character HAS to be an immigrant, reputation gain in the Districts at a certain level will trigger an account-wide achievement that will then allow any new characters on the account to begin play as a District native. (See Creation)
 
-Uses: District-level perks, various flavor perks, housing, Sigil/Passport purchase
+Specific Uses: District-level perks, various flavor perks, housing, Sigil/Passport purchase
 
 
 3. Faction Cred
+Information:
 Faction Cred will likely not be brought into the game in the first chapter. They exist and characters may interact with them (knowingly or not), but Factions will not be a playable option right away. There will ideally be several factions, a few we've already discussed including the neutral non-faction, MOLE, Rupture, and The Tourniquet. One must gain a certain amount of Reputation and advancement to be of use to the factions, so this feature will definitely not be for new characters.
 
-Uses: Faction-specific perks, Faction entrance, ect.
+Specific Uses: Faction-specific perks, Faction entrance, ect.
+
+III. Sigils & Favors
+
+1. Sigils
+2. Favors
+
+Basic Information:
+
+1.Sigils
+Information: Sigils are special coins that can be granted for services, favors and the like. They may be given by NPCs, but will never be handed out wantonly. 
+
+Specific Uses:
+
+2.Favors
+Information:
+
+Specific Uses
+
+IV. Donation Points (OOC)
