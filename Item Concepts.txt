@@ -1,0 +1,27 @@
+Items/Weapons
+
+District Specifigc/Genre Ratings
+Stat Bonus
+Damage Type
+Damage bonus
+Skill Bonus
+Special actions
+
+Visible EQ Lists/Inventory
+
+Clothing
+Head
+Chest
+Body
+Accessories
+Legs
+Feet
+back
+Weapons
+Off-Hand
+
+
+Transportation
+
+
+

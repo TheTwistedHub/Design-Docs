@@ -1,0 +1,45 @@
+Reaper					
+Creator*(Writer/Concept)
+Nick-Fyathas			
+Creator(Writer/Concept/Art)
+Steph-Fish				
+Mod(Concept)
+Ed-Tahvohck				
+Imm(Code)
+Steven-Kulgree			
+Assist(Writer/Concept)
+Tom-Erical				
+Mod(Writer/Concept)
+Dark					
+Assist(Writer/Concept)
+Ceras					
+Assist(Writer/Concept)
+Skelter					
+Creator(Creator)
+Anton					
+Assist(Creator)
+Werns					
+Imm	(Code/Concept)
+Nakito					
+Creator(Code/Concept)
+Wish					
+Creator(Art/Concept)
+Luna					
+Creator(Art)
+Somati					
+Assist**(Code/Concept)
+Wind					
+Creator (Concept)
+Mike-Angelinblackink	
+Mod (Writer/Concept)
+Joe						
+Assist (Writer/Concept)
+Pence					
+Assist (Writer/Concept)
+
+
+
+
+*= Wants to Assist
+**= Wants to Imm
+**= Wants to Admin

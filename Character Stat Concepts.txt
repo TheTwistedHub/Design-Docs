@@ -1,0 +1,24 @@
+Stats
+Physical 		(Strength/Dexterity/Constitution)
+	-Might 		(Strength related physical stat)
+	-Finesse 	(Dexterity and Speed related)
+	-Vitality 	(Constitution-based some-such)
+Health Points
+
+Social 		(Charisma/Appearance/Luck)
+	-Charm		(Charisma-based stat)
+	-Appeal		(Appearance-based)
+	-Kismet		(Fate/Luck/Fluke/Coincidence)
+Lure Points
+
+Mental		(Intelligence/Perception/Wits)
+	-Smarts 	(Knowledge/Intellegt-based)
+	-Perception	(Awareness and Observation-based)
+	-Savvy		(Wits and Wisdom-based mentals)
+Psyche Points
+	
+Sanity Points/Rating
+Bleed Points/Rating
+
+--Condition tags?? Maybe a message is displayed or your description is tagged when fatigued?
+--Skills...To skill, or not to skill. This is the question.
