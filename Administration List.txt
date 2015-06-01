@@ -1,53 +1,78 @@
-Reaper					
-Creator*(Writer/Concept)
-Nick Neal-Fyathas			
-Creator(Writer/Concept/Art)
-Steph-Fish				
-Mod(Concept)
-Ed-Tahvohck				
-Imm(Code)
-Steven-Kulgree			
-Assist(Writer/Concept)
-Tom Cape (Erical)				
-Mod(Writer/Concept)
-Lydia Defountain(Dark)					
-Assist(Writer/Concept)
-Ceras					
-Assist(Writer/Concept)
-Skelter					
-Creator(Creator)
-Anton					
-Assist(Creator)
-WernsVacuum 					
-Imm	(Code/Concept)
-Nakito					
-Creator(Code/Concept)
-Wish					
-Creator(Art/Concept)
-Luna					
-Creator(Art)
-Szara					
-Assist**(Code/Concept)
-Windything					
-Creator (Concept)
-Angelinblackink	(Mike)
-Mod (Writer/Concept)
-Joe						
-Assist (Writer/Concept)
-Pence					
-Assist (Writer/Concept)
-Rider
-Creator(Writer/Concept)
-Tabbi
-Creator(Writer/Concept)
-TheGoblin
-Creator (Code/Concept)
-Chesh
-Creator (Concept)
+Overview:
+There will be, on this site, three classes of personnel: Imps and Moderators, and both will be similar in very many ways, but different in several others as well. I like to think of Moderators being the ones who are actively around, in the story and in chat to keep an eye on things, and to solve disputes ASAP, while the Imps will be there for helping with problems with the site and, if necessary, stepping in to deal with situations. The other sort of personnel will act as helpers to the Mods and Imps, and more often than not will be selected from the player base.
 
 
 
+Tier 1:
+
+Implementors 
+Imps will have similar responsibilities as the moderators, but are also in charge of the sites programming and helping with players who are having issues dealing with some kind of failure (page doesn't load, can't post in certain areas, etc). Imps will also be able to settle disputes, as well as assign bans.
+
+Imps will have the ability to silence anyone, delete posts, enter anywhere and everywhere, be able to unlock and lock areas, see full command lists, edit commands (when asked by the owner), move character locations (for testing purposes), and edit descriptions of main areas. (list is incomplete at current)
+
+Imps may also have characters, and are required again to state this in the description of at least 1 character, but is to be noted that it is not the Imps duty to stay on top of the community, and it is to be stated that some (not all) Imps may not enter the story for any reason. Impersonating Imps will have the same consequences as impersonating moderators, and will have the actions taken towards preventing it.
+
+Imps and Moderators follow the same rules as the rest of the site. If you see a staff member breaking the rules, please report it immediately.
+Team Members: 
+Ed/Tahvohck (Code)
+WernsVacuum(Code/Writing/Concept)
+
+Moderators 
+Moderators will have the responsibility of watching over the community, and always having an open ear. It is their job to make sure that story and chat are kept clear of anything against the rules, and to settle disputes that may be going on in chat (these disputes that are to be settled are ones related to the rules, or if a different argument has gotten too many people riled up, then it should be respectfully put an end to in order to keep bitterness to a minimum). Moderators are to remain impartial to the quality of role play, but should give pointers to new players, especially if it is obvious they have not played before.
+
+Moderators will have the ability to silence people, delete posts, enter anywhere and everywhere, be able to unlock areas, see any commands needed to open areas, and the ability to edit description of main areas (non-player made).
+
+Moderators will have the ability to ban people on the spot, but the only case in which they really should do so is if they find child pornography scenes. If a mod finds a player guilty of a bannable offense, they are to ban them (simple, right?), and if an Email is given, inform them as to why they are now banned. Maybe they'll stop doing it on their next site. Mods are not to ban someone out of anger. If a player has gotten them that angry, the most that should be done is a swift silencing and a deep breath, with the knowledge that they are no longer able to speak. Take that, suckers.
+
+Moderators will have characters that they can play as they want, and may have multiple characters if they please. Moderators are allowed to choose which of their characters are publicly known as theirs (It is required that at least one is noted, and all story related characters as well) and these accounts will (hopefully) have the tag [MOD] in front of their names or in their character descriptions. This is to clear up any confusion as to who the site's staff are.
+
+If a player is found of impersonating a moderator by adding this note to their description, the note will be removed immediately. If it is the first time, the player will be issued a warning. The next time it happens, the account will be temporarily banned. Further punishment will be more severe.
+Team Members: 
+EricalTomCape (Writer/Concept)
+Steph-Fish (Concept)
+Angelinblackink-Mike (Writer/Concept)
+
+
+Tier 2:
+
+Administraitive Assistants
+AAs are appointed by Administration and/or Player Community election and they have a mid-range moderation level. They can't ban you, but they can and WILL mute you and report you to the higher ups for a swift review. It's never a good idea to cross any game's Admin Team. We will begin with a few already appointed because we will not be pulling from the player base until the site has grown a little more. 
+
+Their responsibilities will be to aid the Moderators and Imps in various situations, depending on their skill set. Many of them will also be responsible for ASPCs and NPCs.
+Team Members: 
+Lydia Defountain-Dark (Writer/Concept)
+Ceras (Writer/Concept)
+Szara (Code/Concept)**
+Steven-Kulgree (Writer/Concept)
+Joe(Writer/Concept)
+Pence(Writer/Concept)
+
+
+Tier 3:
+
+Narrators
+Narrators have no formal moderation duties, but they will certainly be on the lookout for any strange goings-on. The story of the Hub revolves around the story of the players, in order to make this an enjoyable reality we have decided that we need Narrators. They will be responsible for narrating certain situations, NPC operation, story/rumor boards and basically anything related to wrangling and driving story in a semi-orderly fashion. Most of them will also be playing and /or making ASPCs as well. 
+Team Members: 
+Skelter (Creator)
+Anton (Creator)  
+
+Creators
+Creators have no real moderation capabilities, but they can easily get in contact with those who can. They have no moderation responsibilities, however, and their designation generally involves concepts, artist, writer and/or coder/scripter.
+Team Members: 
+Nick Neal (Writer/Concept/Art)
+Wish(Art/Concept)
+Reaper (Writer/Concept)
+Windything(Concept)
+Luna(Art)
+Rider(Writer/Concept)
+Tabbi(Writer/Concept)
+TheGoblin(Code/Concept)
+Chesh(Concept)
+Nakito() 
 
 *= Wants to Assist
 **= Wants to Imm
-**= Wants to Admin
+***= Wants to Mod
+
+
+
