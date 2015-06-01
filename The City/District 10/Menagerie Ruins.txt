@@ -1,0 +1,22 @@
+#####
+## Location name
+Menagerie Ruins
+
+#####
+## Description
+
+-Used to be a bustling trade and entertainment point known as the Menagerie
+-Located just inside the court that used to house the gates
+-Ancient Euro-Eastern mix here
+--European/greek/roman towards the Sci-Fi
+--Ancient Eastern towards the horror side
+-Rebuilt as a central trade point and turned ampletheater for concerts/shows/ect.
+
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
