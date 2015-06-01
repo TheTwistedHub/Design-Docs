@@ -1,6 +1,6 @@
 Reaper					
 Creator*(Writer/Concept)
-Nick-Fyathas			
+Nick Neal-Fyathas			
 Creator(Writer/Concept/Art)
 Steph-Fish				
 Mod(Concept)
@@ -8,9 +8,9 @@ Ed-Tahvohck
 Imm(Code)
 Steven-Kulgree			
 Assist(Writer/Concept)
-Tom-Erical				
+Tom Cape (Erical)				
 Mod(Writer/Concept)
-Dark					
+Lydia Defountain(Dark)					
 Assist(Writer/Concept)
 Ceras					
 Assist(Writer/Concept)
@@ -18,7 +18,7 @@ Skelter
 Creator(Creator)
 Anton					
 Assist(Creator)
-Werns					
+WernsVacuum 					
 Imm	(Code/Concept)
 Nakito					
 Creator(Code/Concept)
@@ -26,16 +26,24 @@ Wish
 Creator(Art/Concept)
 Luna					
 Creator(Art)
-Somati					
+Szara					
 Assist**(Code/Concept)
-Wind					
+Windything					
 Creator (Concept)
-Mike-Angelinblackink	
+Angelinblackink	(Mike)
 Mod (Writer/Concept)
 Joe						
 Assist (Writer/Concept)
 Pence					
 Assist (Writer/Concept)
+Rider
+Creator(Writer/Concept)
+Tabbi
+Creator(Writer/Concept)
+TheGoblin
+Creator (Code/Concept)
+Chesh
+Creator (Concept)
 
 
 
