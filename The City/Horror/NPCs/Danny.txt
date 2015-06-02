@@ -1,0 +1,15 @@
+#####
+## Name
+Danny
+
+#####
+## Location
+<Location>
+
+#####
+## Backstory summary
+<Summarize>
+
+#####
+## Importance to Player
+<Explain, can be 'No importance'>
