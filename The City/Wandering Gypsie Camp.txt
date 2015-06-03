@@ -1,0 +1,17 @@
+#####
+## Location name
+Wandering Gypsie Camp
+
+#####
+## Description
+-They can only be found through the random doors of the District such as the Curfew Lines or the Mirror Maze in the Carnival.
+-On a rare occasion, they DO show up at the carnival too.
+-They show up in the various "random door places" in various locations across History, Post-Apocalyptic, Horror, Noir, Fantasy and SoL
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+-They can remove curses and the like (Or sometimes curse others for you)

@@ -1,0 +1,30 @@
+#####
+## Location name
+Yates' Motel
+
+#####
+## Description
+-The Yates Family run and own it.
+
+-They're known for their food Hub-wide.
+--It's totally Soilent Green 
+
+
+#####
+## NPCs
+-Mom runs the cafe at the Night School.
+-The three kids.
+--Older brother is a mad scientist
+---Works at the Sanatorium
+--Creepy younger sister archetype
+---9-10 yr old girl
+--Teen Witch middle sister
+---Stereotypical goth teen 
+---On weekends only, she shows up at the carnival to read fortunes. For a price, she will give you either a random blessing or a random curse that you can only have removed by revisiting her to receive another draw. 
+-Dad runs the front desk
+--Very nervous seeming and meek. 
+--Plays the victim as bait
+
+#####
+## Player actions
+<List of actions>

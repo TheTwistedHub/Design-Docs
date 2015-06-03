@@ -1,0 +1,21 @@
+#####
+## Location name
+Underground Entries
+
+#####
+## Description
+-The entrances are all shafts and elevators.
+-The Anu are keepers to the gates 
+--The Anu are located in three different places and their entrances are all kind of hidden.
+--The most public would be the one in the graveyard. 
+
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+--You have to do tasks for The Anu to earn Special Coins to buy your way into the underground 
+---The currency can also be traded below for certain things.
+
