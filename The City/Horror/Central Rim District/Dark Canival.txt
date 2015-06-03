@@ -1,0 +1,46 @@
+#####
+## Location name
+<The Dark Carnival>
+
+#####
+## Description
+<The sign says: The Dark Carnival, but some of the lights are out.
+The sign reads: The Dark Carn**al.>
+
+Attractions:
+
+-The Devil's Den
+--Gambling Den
+--No money. Only souls, objects and weird crap.
+
+-Little Liars
+--House of Mirrors
+--Maze
+---Center gives you some twisted truth
+---Can send you to many different places depending on the RNG if you don't find your way.
+---Can we set it up to change and move?
+
+The Freak and Peek
+--Freak Show Cabaret
+---Burlesque Styled~ 
+--Ghost and monster girls, freaks and carney girls...
+---Come oogle our oddities!
+
+-Bigtop
+--Ringmaster*
+---Female
+--Quest/Task center?
+--Various Act Attractions~
+
+-Midway
+-Sideshow
+-Rides
+
+
+#####
+## NPCs
+<Ringmaster>
+
+#####
+## Player actions
+<List of actions>

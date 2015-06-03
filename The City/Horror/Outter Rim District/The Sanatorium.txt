@@ -1,0 +1,32 @@
+#####
+## Location name
+The Sanatorium
+
+#####
+## Description
+Outside
+
+-Pristine, walled grounds.
+--Pretty, lush and green with a fountain and a pond. Very relaxing and therapeutic.
+
+-Walls are covered in 'special roses'
+---On the outside they're beautiful creeping purple roses. They're mutated monsters on the inside, though.
+
+
+Inside
+
+-Totally abandoned and ancient looking. Everything is old, outdated with peeling paint and broken windows despite the outside view.
+
+-The offices are like labs, with drains in the floors and uncomfortable creepy chairs, cages and lab-like atmosphere.
+
+-Cells
+--various types of cells and also things not particularly meant to be cells.
+--Padded rooms, little black boxes, cages, regular nappy old cells, iron maiden-type cells, ect.
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
