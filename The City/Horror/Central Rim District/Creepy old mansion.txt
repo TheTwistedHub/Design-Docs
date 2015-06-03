@@ -1,0 +1,25 @@
+#####
+## Location name
+Creepy Old Mansion
+
+#####
+## Description
+Creepy old mansion on the hill. 
+-Scary as fuck.
+--Ghosts and such.
+
+-This is where the district's "Lily Munster" lives
+--He's a foppish, wealthy rich boy who was born "disfigured" in a place like this. 
+---This means he's completely not scary. He's pretty and happy and WIERD. To them, it's creepy.
+--He makes dolls. Fills the house with them. And puppets. Normal ones. They aren't even made of PEOPLE.
+--Taskmaster
+
+#####
+## NPCs
+Taskmaster - Name TBD
+
+#####
+## Player actions
+Task Gain/Pickup
+Story POI
+Entry Quest Stop

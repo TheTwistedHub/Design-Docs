@@ -1,0 +1,62 @@
+#####
+## Location name
+
+Pleasant Ridge*
+Oakwood Paradise*
+Everything Falls*
+Shady Grove*
+Rockwell*
+
+#####
+## Description
+-Location-On the wall. 
+--LOW BLEED area's side D10 Wall
+--in the foggy world port forest, on the edge of the Vale and District 10.
+-The Fog creeps up the walls, obscuring the view of the bone wall.
+--Above it, spider webs drape them like the snow on caps. No spiders, though.
+
+-Post Apocalytic Resident, "We don't cross The Wall there. We NEVER cross the wall there..."
+
+-Population
+--20% are brainwashed.
+--50% is an illusion, puppeted by the Governor's dreams.
+--30% actually are real and aware.
+
+-The Edge
+--Wall-bar. 
+--It's Post Apocalyptic run and dug out of the wall high up.
+---Platforms and balconies here give a good view. 
+---There are often bets placed about confused newbies stumbling onto the perfect-seeming suburbian paradise and their plausible fates. It's a fairly common pass-time.
+
+-Sweeny's Todd
+--It's a "hair care store"
+
+-Scary woods
+--It's surrounded by a thick and heavily foggy wood.
+--Ferluci Hollow
+--its fog seeps through the wall here, too, but not the trees.
+---The trees on this side are mutated by heavy bleed and radiation spilled from the wall during the breech.
+
+-Town Hall
+--Quest/Task Center
+
+-Margaret's
+--Grociery Store
+--Don't ask about Bob the Butcher.
+---"There was always something off about Bob..."
+
+-Anything we don't name will be called as if it is the only one. 
+--The Post office, The Gas Station, The Diner, The School, ect.
+
+-Radio Station
+--There will be Hub News podcasts from here, told ICly.
+
+
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
