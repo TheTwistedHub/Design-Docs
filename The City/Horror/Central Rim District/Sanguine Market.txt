@@ -1,0 +1,27 @@
+#####
+## Location name
+The Sanguine Market
+
+#####
+## Description
+-Little Creepy China (Lots of Asian Horror)
+--This is the breeding ground for the Asian Horror and Noir Cross/Sub-Genres.
+--the name comes from the bloody business of being there and the fact that it allows a certain ammount of bleed into the two districts. The plots here often draw Noir members into them and vice-versa. 
+
+-Connects to the Noir District's Little China market area through a back closet or trapdoor basement.
+--Dark witchcraft and voodoo shops abound, it's the darker twisted shadow of Little China
+--The Little Shop of Horrors is located here
+--The base of the Nocte Vigil is located here 
+---on the west edge nestled to the wall.
+
+
+
+
+
+#####
+## NPCs
+<List of NPCs>
+
+#####
+## Player actions
+<List of actions>
