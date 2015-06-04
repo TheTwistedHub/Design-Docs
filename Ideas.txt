@@ -15,3 +15,5 @@ Ideas for things that could be included in the game:
 1. Every district has it's own background art, which is the same for most locations in the district. 
 --Certain locations can have different background art, based on what they are. 
 --Players can pay to have a different background art commissioned for their locations. (Mike's idea is to buy a header slot)
+
+2. 'Extra Turns' that you could pay for, such as how the Island does Chronospheres and stamina. Use it to refill whatever resource we give players so that they can have extra turns per game day, however long we make it. I would suggest game days reset every three hours.
