@@ -1,0 +1,63 @@
+A * instead of a | next to an action means that the flow goes both ways.
+A + instead of a | next to an action means that this will open in a new tab.
+Multiple actions on a pipe imply options that go to the same state.
+Any [action] on the middle of a pipe is the same as an action beside a pipe.
+Any state denoted as {state} has its own subtree that is being abstracted in the current tree for simplicity.
+
+#####
+## MAIN FLOW
+#####
+Home page (Not logged in)
+	|					
+	| - - - - - - - - - \
+	| sign up			| login
+	|					|
+	V					V
+Account creation - - > Account - - [logout] - - > Home page (Not logged in)
+						|
+	/ - - - - - - - - - - - - - - - - - - - - - - - - - - - \
+	* Sel. char			| Make char		* Settings			+ Mail
+	+ Sel. char (tab)	|				|					|
+	|					|				V					V
+	|					|				Settings			Mail module
+	|					V
+	|				{Character creation}
+	|					|
+	V					|
+{World interaction} < - /
+
+######
+## CHARACTER CREATION
+######
+Account
+	|
+	V
+Choose Name
+Choose Gender
+Choose District (If allowed)
+Short description?
+Picture?
+	|
+	V
+Confirm
+	|
+	V
+{World interaction}
+
+######
+## WORLD INTERATION
+######
+	|
+	V
+{Location} - - * [Travel] - > World map
+	|							|
+	|							* [Encounter?]
+	|							|
+	|							V
+	|						{Combat?}
+	|
+	| - - - - - - - - - - - - - - - - - - - - - - - - - \
+	|			|					|					|
+	V			V					V					|
+	Chat		Sub-Location		NPC interaction - > Story Interaction
+
