@@ -1,0 +1,17 @@
+Layout Submission 1:
+
+This is a basic user interface designed to make things interesting and uncomplicated. This explanation goes from left to right.
+
+On the left there is a side bar with a variable number of buttons. The buttons and the side bar behind them are the same template all the time and this part would generally not change. The artwork for the buttons and the background should be based on the district, but in general should be simple and, so there should only be one image per district for the background and the buttons should be themed by district as well.
+
+The buttons should be used for common things that would be accessed often, like character sheet, inventory, and housing/ui settings. Things the players would find themselves using on a daily basis.
+
+In the middle, to the top, would be a header. It would have a logo on it, have links to the rules, wiki, contact for mods, and anything that would be less common in use. The header would have a picture that would not change often, tied to the game world iteself. 
+
+The idea that the header could change to a specific, character chosen picture while in a place might be interesting. It may be something people may be willing to invest in.
+
+Under this header would be a heading for the current location, as well as a description of the area. Beneath that would be the chat box, possbily with movement buttons to the left, or if not buttons perhaps a menu of movement options. 
+
+On the right would be a map in the upper corner, which perhaps could also become a player requested picture in their places. Under that would be their character picture, and next to that would be stat or health bars, if the game ends up with combat in it. If not, something else could take the place of stats. Under these a picture would go, and this would be the same picture in each of the districts except that it would change in some but not all places, such as CBC buildings. 
+
+If this seems interesting to people, perhaps it could be used. Otherwise it can be scrapped.
